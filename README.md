@@ -1,5 +1,7 @@
 # pandas-lesson
-"""
-Ini merupakan kumpulan dari latihan dan projek pandas yang dilakukan sebagai rangka menambah dan mengasah skill dalam penggunaan pandas dalam Data Analyst.
-Error adalah sahabat terbaik, dengan error kita dapat mengenal lebih dalam program yang dibuat.
-"""
+This Folder contain my homework and lesson course to increase my skill step by step. I hope this could be my portofolio in my future.
+Thanks for Attention
+Regards AndrewDoni
+
+"error is your best friend, with errors you get to know your program more closely"
+
